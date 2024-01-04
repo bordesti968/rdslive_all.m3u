@@ -1,0 +1,282 @@
+#EXTM3U
+
+########## COPII
+#EXTINF:-1,Teennick sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/teennicksd/video.m3u8
+#EXTINF:-1,Nickelodeon sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/nickelodeonsd/video.m3u8
+#EXTINF:-1,Minimax sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/minimaxsd/video.m3u8
+#EXTINF:-1,Ducktv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/ducktvsd/video.m3u8
+#EXTINF:-1,Cartoonnetwork sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/cartoonnetworksd/video.m3u8
+#EXTINF:-1,Jimjam sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/jimjamsd/video.m3u8
+#EXTINF:-1,Nickjr sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/nickjrsd/video.m3u8
+#EXTINF:-1,Nicktoons sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/nicktoonssd/video.m3u8
+#EXTINF:-1,Boomerang sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/boomerangsd/video.m3u8
+#EXTINF:-1,Disneychannel sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/disneychannelsd/video.m3u8
+#EXTINF:-1,Disneyjunior sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/disneyjuniorsd/video.m3u8
+#EXTINF:-1,Tralala sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/tralalasd/video.m3u8
+
+######### FILME
+#EXTINF:-1,HBO hd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/hbohd/video.m3u8
+#EXTINF:-1,HBO2 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/hbo2sd/video.m3u8
+#EXTINF:-1,HBO3 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/hbo3sd/video.m3u8
+#EXTINF:-1,Cinemax hd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/cinemaxhd/video.m3u8
+#EXTINF:-1,Cinemax2 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/cinemax2sd/video.m3u8
+#EXTINF:-1,Filmnow sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/filmnowsd/video.m3u8
+#EXTINF:-1,Epicdrama sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/epicdramasd/video.m3u8
+#EXTINF:-1,Comedycentral sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/comedycentralsd/video.m3u8
+#EXTINF:-1,Procinema sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/procinemasd/video.m3u8
+#EXTINF:-1,Diva sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/divasd/video.m3u8
+#EXTINF:-1,Cinemaraton sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/cinemaratonsd/video.m3u8
+#EXTINF:-1,Bollywoodtv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/bollywoodtvsd/video.m3u8
+#EXTINF:-1,Cinetube sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/cinetubesd/video.m3u8
+#EXTINF:-1,Warnertv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/warnertvsd/video.m3u8
+#EXTINF:-1,Primacomedy sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/primacomedysd/video.m3u8
+#EXTINF:-1,Filmcafe sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/filmcafesd/video.m3u8
+#EXTINF:-1,Cinetronix sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/cinetronixsd/video.m3u8
+#EXTINF:-1,AMC sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/amcsd/video.m3u8
+
+####### GENERALISTE
+#EXTINF:-1,Antenastars sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/antenastarssd/video.m3u8
+#EXTINF:-1,Acasatv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/acasatvsd/video.m3u8
+#EXTINF:-1,Acasagold sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/acasagoldsd/video.m3u8
+#EXTINF:-1,Nationaltv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+
+https://play.stirilepe.net/nationaltvsd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Happychannel sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/happychannelsd/video.m3u8
+#EXTINF:-1,Tvr2 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/tvr2sd/video.m3u8
+#EXTINF:-1,Metropolatv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/metropolatvsd/video.m3u8
+#EXTINF:-1,Tvr1 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/tvr1sd/video.m3u8
+#EXTINF:-1,Kanald hd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/kanaldhd/video.m3u8
+#EXTINF:-1,Primatv hd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/primatvhd/video.m3u8
+#EXTINF:-1,Antena1 hd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/antena1hd/video.m3u8
+#EXTINF:-1,PROTV hd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/protvhd/video.m3u8
+#EXTINF:-1,Tvr3 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/tvr3sd/video.m3u8
+#EXTINF:-1,National24 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/national24sd/video.m3u8
+#EXTINF:-1,Bucurestitv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/bucurestitvsd/video.m3u8
+#EXTINF:-1,ncn sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/ncnsd/video.m3u8
+
+####### MUZICA
+#EXTINF:-1,Musicchannel sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/musicchannelsd/video.m3u8
+#EXTINF:-1,Magictv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/magictvsd/video.m3u8
+#EXTINF:-1,Rapsodia sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/rapsodiasd/video.m3u8
+#EXTINF:-1,Hitmusic sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/hitmusicsd/video.m3u8
+#EXTINF:-1,Favorittv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/favorittvsd/video.m3u8
+#EXTINF:-1,Taraftv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/taraftvsd/video.m3u8
+#EXTINF:-1,Etnotv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/etnotvsd/video.m3u8
+#EXTINF:-1,Balkanmusic sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/balkanmusicsd/video.m3u8
+#EXTINF:-1,UTV sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/utvsd/video.m3u8
+#EXTINF:-1,ZUTV sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/zutvsd/video.m3u8
+#EXTINF:-1,Atomictv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/atomictvsd/video.m3u8
+#EXTINF:-1,Kisstv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/kisstvsd/video.m3u8
+#EXTINF:-1,Rocktv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/rocktvsd/video.m3u8
+#EXTINF:-1,Mtveurope sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/mtveuropesd/video.m3u8
+#EXTINF:-1,Tv00 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/mtv00sd/video.m3u8
+#EXTINF:-1,Traditionaltv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/traditionaltvsd/video.m3u8
+#EXTINF:-1,Partymix sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/partymixsd/video.m3u8
+#EXTINF:-1,Moozdance sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/moozdancesd/video.m3u8
+
+####### RELIGIOASE
+#EXTINF:-1,Trinitastv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/trinitastvsd/index.m3u8
+#EXTINF:-1,Sperantatv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/sperantatvsd/video.m3u8
+#EXTINF:-1,Alfaomega sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/alfaomegasd/video.m3u8
+#EXTINF:-1,Credotv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/credotvsd/video.m3u8
+
+####### SPORT
+#EXTINF:-1,Digisport1 hd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/digisport1hd/video.m3u8
+#EXTINF:-1,Digisport2 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/digisort2sd/video.m3u8
+#EXTINF:-1,Digisport3 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/digisport3sd/video.m3u8
+#EXTINF:-1,Digisport4 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/digisport4sd/video.m3u8
+#EXTINF:-1,Primasport1 hd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/primasport1hd/video.m3u8
+#EXTINF:-1,Primasport2 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/primasport2sd/video.m3u8
+#EXTINF:-1,Primasport3 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/primasport3sd/video.m3u8
+#EXTINF:-1,Sportextra hd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/sportextrahd/video.m3u8
+#EXTINF:-1,Eurosport sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/eurosportsd/video.m3u8
+#EXTINF:-1,Eurosport2 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/eurosport2sd/video.m3u8
+#EXTINF:-1,Proarena sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/proarenasd/video.m3u8
+
+####### STIRI
+#EXTINF:-1,Antena3 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/antena3sd/video.m3u8
+#EXTINF:-1,Realitateaplus sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/realitateaplussd/video.m3u8
+#EXTINF:-1,Romaniatv sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/romaniatvsd/video.m3u8
+#EXTINF:-1,Digi24 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/digi24sd/video.m3u8
+#EXTINF:-1,Euronewsro sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/euronewsrosd/video.m3u8
+#EXTINF:-1,B1 sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/b1sd/video.m3u8
+#EXTINF:-1,CNN sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/cnnsd/video.m3u8
+#EXTINF:-1,BBCworldnews sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/bbcworldnewssd/video.m3u8
+#EXTINF:-1,Primanews sd
+#EXTVLCOPT:http-referrer=https://rds.live/
+https://play.stirilepe.net/primanewssd/video.m3u8
+
+
